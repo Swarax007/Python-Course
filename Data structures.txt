@@ -1,0 +1,31 @@
+List - []
+
+# Is mutable (can be modified)
+# Can contain duplicate values
+# Ordered
+# Functions - append(),insert(position,'word/num'),sort(),sum(list)
+
+Tuples - ()
+
+# Is not mutable (cannot be modified)
+# Can contain duplicate values
+# Ordered
+# Functions - 
+
+Set - {}
+
+# Is mutable (can be modified)
+# Doesnt contain duplicate value
+# Unordered or simply orders alphabetically and not as given sequence of input
+# Don't give index of element if specified 
+# Functions - 
+
+Dictionary - {}
+
+# Is just a set but with key value pair
+# Is mutable (can be modified)
+# Unordered or simply orders alphabetically and not as given sequence of input
+# Gives value if key number is inserted 
+# Ex - set ={ 1,2,3,'sad','happy'} dict = {'1':'Sad','2':'Happy'}
+
+
